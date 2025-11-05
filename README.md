@@ -62,11 +62,11 @@
 
 - Access purchased course content with:
 
-- Accordion-based course structure (sections & subsections)
+   - Accordion-based course structure (sections & subsections)
 
-- Mark videos as completed (highlighted in accordion)
+   - Mark videos as completed (highlighted in accordion)
 
-- Navigate seamlessly between videos using Previous/Next controls
+   - Navigate seamlessly between videos using Previous/Next controls
 
 ### Course Engagement
 
